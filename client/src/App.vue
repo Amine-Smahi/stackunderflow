@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <nav class="navbar navbar-expand-md navbar-dark bg-dark shadow">
-      <a class="navbar-brand" href="#/">mini-SO</a>
+      <a class="navbar-brand" href="#/">stackunderflow</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
